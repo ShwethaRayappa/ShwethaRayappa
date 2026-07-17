@@ -42,19 +42,6 @@ I'm an Information Science Engineering student passionate about building scalabl
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 Quick Commerce Platform
-
-Spring Boot + React + MySQL
-
-### 💰 Expense Tracker
-
-Spring Boot + MySQL
-
-### 💻 Remote Code Execution System
-
-Spring Boot + Docker
 
 ---
 
