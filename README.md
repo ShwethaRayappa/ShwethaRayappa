@@ -11,7 +11,6 @@ I'm an Information Science Engineering student passionate about building scalabl
 - 🎓 Information Science Engineering Student
 - 💻 Java Backend Developer
 - 🌱 Currently learning Spring Boot & Microservices
-- 🧩 Solved 150+ LeetCode Problems
 - 🎯 Interested in Backend Development & System Design
 
 ---
