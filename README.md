@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shwetha R
+# Hi there 👋, I'm Shwetha 
 
 ## 🚀 Aspiring Java Backend Developer
 
