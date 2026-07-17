@@ -1,28 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Shwetha R
 
-<!--
-**ShwethaRayappa/ShwethaRayappa** is a ✨ _special_ ✨ r# Hi 👋, I'm Shwetha
+## 🚀 Aspiring Java Backend Developer
 
-### Backend Developer | Java | Spring Boot
-
-I'm an Information Science student passionate about Java backend development and scalable web applications.
+I'm an Information Science Engineering student passionate about building scalable backend applications using Java and Spring Boot. I enjoy solving DSA problems and developing real-world projects.
 
 ---
 
-## 🚀 Tech Stack
+## 👩‍💻 About Me
 
-- Java
-- Spring Boot
-- Spring Security
-- MySQL
-- React
-- Maven
-- Git
-- GitHub
+- 🎓 Information Science Engineering Student
+- 💻 Java Backend Developer
+- 🌱 Currently learning Spring Boot & Microservices
+- 🧩 Solved 150+ LeetCode Problems
+- 🎯 Interested in Backend Development & System Design
 
 ---
 
-## 📌 Projects
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+## 📂 Featured Projects
 
 ### 🛒 Quick Commerce Platform
 
@@ -38,31 +59,22 @@ Spring Boot + Docker
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- Spring Boot
-- Microservices
-- System Design
-- DSA
+![](https://github-readme-stats.vercel.app/api?username=ShwethaRayappa&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwethaRayappa&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+## 🔥 GitHub Streak
 
-LinkedIn:
-www.linkedin.com/in/shwetha-r-8ab914341
+![](https://streak-stats.demolab.com?user=ShwethaRayappa&theme=tokyonight)
 
-GitHub:
-github.com/ShwethaRayappaepository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shwetha-r-8ab914341)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ShwethaRayappa)
