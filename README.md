@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shwetha 
 
-## 🚀 Aspiring Java Backend Developer
+## 🚀 Aspiring Software Developer
 
 I'm an Information Science Engineering student passionate about building scalable backend applications using Java and Spring Boot. I enjoy solving DSA problems and developing real-world projects.
 
